@@ -2,7 +2,7 @@
   "AwesomeStructs":
   [
     {
-      "AwesomeVector": [10,0,0,20,40,0],
+      "AwesomeVector": [10,50,0,20,40,0],
       "AwesomeBoolean": true,
       "AwesomeFloat": 10.5,
       "AwesomeInteger": 20,
